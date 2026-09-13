@@ -1,9 +1,9 @@
 #BÁO CÁO KẾT QUẢ THỰC HÀNH 01
 ---
-Thông tin sinh viên:
-Họ và tên: Đỗ Anh Kiệt
-Mã số sinh viên: B2609651
-Tên thư mục bài tập: ThucHanh01_DoAnhKiet
+**Thông tin sinh viên:
+*Họ và tên: Đỗ Anh Kiệt
+*Mã số sinh viên: B2609651
+**Tên thư mục bài tập: ThucHanh01_DoAnhKiet
 ---
 #danh mục nhiệm vụ thực hành
 - Nhiệm vụ 1.1: Tìm hiểu cấu hình phần cứng
